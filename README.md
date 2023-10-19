@@ -4,7 +4,7 @@
 
 ### H2 header 
 
-###### even smalled header i believe H6
+###### even smaller header i believe H6
 
 
 This is a sentence of regular text.
@@ -15,3 +15,4 @@ md stands for markdown. Kind of a marking language. You can use things like # or
 Here is some *important* text [highlight the word or sentence and press SHIFT + 8]
 
 Here is some **even more important** text. ([SHIFT + 8) x 2]
+
